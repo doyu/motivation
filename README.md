@@ -1,5 +1,5 @@
 % A letter of motivation to the Robot Learning research group
-% [Hiroshi Doyu](hiroshi.doyu@gmail.com)
+% [Hiroshi Doyu](mailto:hiroshi.doyu@gmail.com)
 % \today
 ---
 # My background
