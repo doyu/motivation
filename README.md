@@ -10,8 +10,8 @@ Here's our published paper, [A TinyMLaaS Ecosystem for Machine Learning in IoT](
 
 Historically ML development was about building up models of new algorithms in Python. These models are running on powerful Cloud GPU in Python execution environment (e.g. Pytorch).
 The size of ML models has been getting bigger and bigger while ML use cases are expanding from central Cloud computing to Edge computing where computing resources are smaller and diversed.
-There's apparently needs to run ML inference efficiently on various hardware environments, including the very end of Edge computing.
-ML hardware accelerator at Edge computing needs its ML compiler to generate optimized executable binary for them.
+There's apparently needs to run ML inferences efficiently on various hardware environments, including the very end of Edge computing (e.g. IoT sensors).
+ML hardware accelerator at Edge computing needs its tailor made ML compiler to generate optimized executable binary for them, at least, for now.
 This trend is changing the traditional legacy Computer Science concept (e.g. Compiler) into a new era. For example, there are more needs for domain specific compilers for various (tiny) ML use cases.
 There are 2 aspects of "ML concept" at compilation although they are supplemental.
 
@@ -47,4 +47,3 @@ I have recently taken the following courses at Aalto university.
 * CS-EJ3211 - Machine Learning with Python D
 * CS-EJ3311 - Deep Learning with Python D, Lectures
 * ELEC-E8125 - Reinforcement learning D, Lecture
-
