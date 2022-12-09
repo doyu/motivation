@@ -22,6 +22,8 @@ There are 2 aspects of "ML concept" at compilation although they are supplementa
 
 Right now I'm not employed after Ericsson Reseach to pursue the possibility to run own business based on our [TinyML](https://media-exp1.licdn.com/dms/image/C562DAQHNS5nstmvc0w/profile-treasury-image-shrink_800_800/0/1668676243196?e=1671184800&v=beta&t=edPqbDZHyqywmjBYBNiSCdCmsV6DRLN6iGf-CIkj-qk) solution, under Helsinki university incubation program, [NEXUS](https://www.helsinki.fi/en/networks/helsinki-incubators/incubators/nexus-deep-tech-ai-sustainability).
 
+![TinyML as-a-Service](TinyMLaaS_one_pager.png)
+
 # My research interests
 I'd like to research further ML compiler area, applying ML algorithms (e.g. RL) to emerging ML compilers, esp. ML HW accelerators. This activity could be naturally extend to including generatiion of HW design eventually. I was really entertained by taking both courses, "CS-E4890 - Deep Learning D, Lecture" and "ELEC-E8125 - Reinforcement learning D, Lecture", at Aalto university.
 
