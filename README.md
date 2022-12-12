@@ -15,7 +15,7 @@ There are apparently needs to run ML inferences efficiently on various hardware 
 ML hardware accelerator at Edge computing needs its tailor made ML compiler to generate optimized executable binary for them, at least, for now.
 This trend is changing the traditional legacy CS concept (e.g. Compiler) into a new era.
 For example, there are more needs for domain specific compilers for accelerators used in various specific (tiny) ML use cases.
-There are 2 aspects of "ML concept" at compilation although they are supplemental.
+There are 2 aspects of "ML concept" at Compiler although they are supplemental.
 
 * Compiling ML models to convert a computational graph at training into the optimized efficient format for inferencing [MLIR](https://mlir.llvm.org/) and [Apache TVM](https://tvm.apache.org/)
 * Applying ML methods to optimize compilation process itself (e.g. Reinforcement Learning to find the best outcome). [Apache TVM](https://tvm.apache.org/) is doing [this](https://twitter.com/tqchenml/status/1597258641023066117/photo/1).
@@ -25,7 +25,7 @@ Right now I'm not employed after Ericsson Reseach to pursue the possibility to r
 ![TinyML as-a-Service](TinyMLaaS_one_pager.png)
 
 # My research interests
-I'd like to research further ML compiler area, applying ML algorithms (e.g. RL) to emerging ML compilers, esp. ML HW accelerators. This activity could be naturally extend to including generatiion of HW design eventually. I was really entertained by taking both courses, "CS-E4890 - Deep Learning D, Lecture" and "ELEC-E8125 - Reinforcement learning D, Lecture", at Aalto university.
+I'd like to research ML compiler area, applying ML algorithms (e.g. RL) to emerging ML compilers (domain specifi compiler) area, esp. along with new ML HW accelerators. This activity could be naturally extended to generatiion of HW design as well. Last one year I was really entertained by taking both courses, "CS-E4890 - Deep Learning D, Lecture" and "ELEC-E8125 - Reinforcement learning D, Lecture", at Aalto university, where I found the latest outcome of DL & RL are powerful tools just to apply any areas while DL & RL themselves are rapidly evolving.
 
 
 # Benefit for the Robot Learning research group
